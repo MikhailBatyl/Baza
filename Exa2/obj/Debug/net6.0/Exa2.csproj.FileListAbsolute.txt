@@ -1,0 +1,15 @@
+A:\GeekBrains\FinalBaza\Exampel\Exa2\bin\Debug\net6.0\Exa2.exe
+A:\GeekBrains\FinalBaza\Exampel\Exa2\bin\Debug\net6.0\Exa2.deps.json
+A:\GeekBrains\FinalBaza\Exampel\Exa2\bin\Debug\net6.0\Exa2.runtimeconfig.json
+A:\GeekBrains\FinalBaza\Exampel\Exa2\bin\Debug\net6.0\Exa2.dll
+A:\GeekBrains\FinalBaza\Exampel\Exa2\bin\Debug\net6.0\Exa2.pdb
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.csproj.AssemblyReference.cache
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.GeneratedMSBuildEditorConfig.editorconfig
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.AssemblyInfoInputs.cache
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.AssemblyInfo.cs
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.csproj.CoreCompileInputs.cache
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.dll
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\refint\Exa2.dll
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.pdb
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\Exa2.genruntimeconfig.cache
+A:\GeekBrains\FinalBaza\Exampel\Exa2\obj\Debug\net6.0\ref\Exa2.dll
